@@ -1,0 +1,44 @@
+
+ h1 {   font-family: protest-revolution-regular;
+        font-family: "Protest Revolution", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 50px;
+    }
+      
+h4{ 
+    color: black;
+}    
+body{ 
+    text-align: center;
+    background: linear-gradient(to top, #c4c5c7 0%, #dcdddf 52%, #ebebeb 100%);
+}  
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+    box-shadow: black 0px 20px 30px;
+}
+
+a {
+    padding: 50px;
+    text-decoration: none;
+    color: rgb(111, 104, 104);
+    margin-top: 60px;
+    margin-bottom: 90px;
+}
+
+.container {
+    width: 500px;
+    padding: 10px;
+    margin: 0 auto;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: black 0px 20px 30px;
+}
+
+.contactUs {
+    padding: 200px;
+    font-size: 20px;
+}
